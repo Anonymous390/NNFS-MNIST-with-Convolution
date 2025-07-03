@@ -1,5 +1,9 @@
+![Python](https://img.shields.io/badge/python-3.7%2B-blue)
+![NumPy](https://img.shields.io/badge/numpy-%E2%9C%94-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
+![MNIST](https://img.shields.io/badge/dataset-MNIST-orange)
+<h1 align="center">🧠 CNN from Scratch on MNIST</h1>
 
-# 🧠 CNN from Scratch on MNIST  
 This project implements a simple Convolutional Neural Network (CNN) using **NumPy only**, without any deep learning frameworks like TensorFlow or PyTorch.  
 It trains on the **MNIST handwritten digit dataset** (28×28 grayscale images) and includes forward and backward propagation, convolution, pooling, dense layers, softmax + cross-entropy loss, and SGD optimizer with momentum + decay.  
 
