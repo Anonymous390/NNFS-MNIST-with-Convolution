@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![NumPy](https://img.shields.io/badge/numpy-%E2%9C%94-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![MNIST](https://img.shields.io/badge/dataset-MNIST-orange)
 <h1 align="center">🧠 CNN from Scratch on MNIST</h1>
 
