@@ -7,6 +7,8 @@
 This project implements a simple Convolutional Neural Network (CNN) using **NumPy only**, without any deep learning frameworks like TensorFlow or PyTorch.  
 It trains on the **MNIST handwritten digit dataset** (28×28 grayscale images) and includes forward and backward propagation, convolution, pooling, dense layers, softmax + cross-entropy loss, and SGD optimizer with momentum + decay.  
 
+Achieves ~98% accuracy on MNIST test set after 5 epochs.
+
 ---
 
 ## 🚀 Features  
