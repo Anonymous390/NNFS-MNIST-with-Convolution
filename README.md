@@ -2,6 +2,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%E2%9C%94-lightgrey)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![MNIST](https://img.shields.io/badge/dataset-MNIST-orange)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Anonymous390/YourMNISTRepo)
 <h1 align="center">CNN from Scratch on MNIST</h1>
 
 This project implements a simple Convolutional Neural Network (CNN) using **NumPy only**, without any deep learning frameworks like TensorFlow or PyTorch.  
